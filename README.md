@@ -57,7 +57,7 @@ After testing multiple models, **XGBoost** was selected as the final model due t
 ## 📌 How to Run the Project
 1. Clone the repository:
    ```sh
- [ git clone https://github.com/your-username/your-repo.git](https://github.com/adityajoshi1362/Data-Analysis-and-EDA)
+[ [ git clone https://github.com/your-username/your-repo.git](https://github.com/adityajoshi1362/Data-Analysis-and-EDA)]
    ```
 
 2. Train & Evaluate models using the provided code.
